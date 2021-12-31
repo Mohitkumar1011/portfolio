@@ -91,7 +91,7 @@
 .site-main .about-area .about-title h2 > span{
     display: block;
     font: normal bold 49px/ 60px var(--roboto);
-    letter-spacing: 21px;
+    letter-spacing: 3px;
 }
 
 .site-main .about-area .about-title .paragraph > p{
@@ -303,7 +303,7 @@
 }
 
 .site-main .subscribe-us-area .subscribe form .input-textbox input{
-    width: 400px;
+    width: 450px;
     padding: 1.5rem 1rem;
     border: 1px solid whitesmoke;
     background: transparent;
